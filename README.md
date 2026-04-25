@@ -1,2 +1,12 @@
 # superstore_dashboard.pbix
-Power BI dashboard analyzing sales and profit trends
+Power BI dashboard analyzing sales and profit trends.
+This project analyzes sales and profit data using Power BI.
+
+🔧 Tools Used
+Python (Pandas) for data cleaning
+Power BI for visualization.
+
+📈 Key Insights
+Technology category has highest sales
+High discounts reduce profit
+West region contributes maximum revenue
