@@ -1,5 +1,6 @@
 # superstore_dashboard.pbix
-<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/a276be34-8552-4ce5-bff9-ea7698d37854" />
+
+<img width="1523" height="995" alt="image" src="https://github.com/user-attachments/assets/4a0d6f9c-f432-4143-9b1c-8e8a023cccb4" />
 
 Power BI dashboard analyzing sales and profit trends.
 This project analyzes sales and profit data using Power BI.
